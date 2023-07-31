@@ -1,10 +1,10 @@
 @font-face {
     font-family: "Chicago";
-    src: url("https://mathcats.neocities.org/src/fonts/Chicago.ttf") format("truetype");
+    src: url(/src/fonts/Chicago.ttf) format("truetype");
 }
 
 :root {
-  --bg-color: #E10f21;
+  --bg-color: #7c28c2;
 }
 
 
