@@ -29,6 +29,7 @@ body {
   border-radius: 5px;
   border-style: none;
   background-color: white;
+  margin: auto;
   z-index: 2;
 }
 
