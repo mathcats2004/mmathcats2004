@@ -33,6 +33,12 @@ body {
   z-index: 2;
 }
 
+.head {
+  width: 100%;
+  padding: 0;
+  border-bottom: 3.5px double seagreen;
+}
+
 .scrollbg {
     background-image: url(/src/images/hellzonebg.png);
     opacity: 1;
