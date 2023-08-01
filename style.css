@@ -27,7 +27,7 @@ body {
   z-index: 2;
 }
 
-.background {
+.scrollbg {
     background-image: url(/src/images/hellzonebg.png);
     opacity: 1;
     position: fixed;
