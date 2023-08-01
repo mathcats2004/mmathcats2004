@@ -1,5 +1,5 @@
 * {
-  cursor: url("/src/images/cursor.png"), auto !important;
+  cursor: url(/src/images/cursor.png), auto !important;
   } 
 
 @font-face {
