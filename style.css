@@ -26,3 +26,24 @@ body {
   background-color: white;
   z-index: 2;
 }
+
+.background {
+    background-image: url(/src/images/hellzonebg.png);
+    opacity: 1;
+    position: fixed;
+    width: 500%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    z-index: 1;
+    animation: slide 1000s linear infinite;
+}
+
+@keyframes slide {
+    0% {
+        transform: translate3d(0, 0, 0);
+    }
+    100% {
+        transform: translate3d(-90%, 0, 0);
+    }
+}
