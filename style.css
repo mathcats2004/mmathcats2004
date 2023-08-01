@@ -21,7 +21,7 @@ body {
 
 .container {
   display: block;
-  width: 1360px;
+  width: 800px;
   position: fixed;
   overflow: auto;
   min-height: 700px;
