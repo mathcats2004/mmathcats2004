@@ -16,7 +16,8 @@ html,
 body {
   background-color: var(--bg-color);
   color: black;
-  font-family: Chicago;
+  font-family: Chicago; 
+  overflow: hidden;
 }
 
 .container {
