@@ -1,7 +1,3 @@
-* {
-  cursor: url(/src/images/cursor.png), auto !important;
-  } 
-
 @font-face {
     font-family: "Chicago";
     src: url(/src/fonts/Chicago.ttf) format("truetype");
