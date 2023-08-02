@@ -20,6 +20,17 @@ body {
   overflow: hidden;
   width: 800px;
   margin: auto;
+  cursor: url(/src/images/cursor.png), auto;
+}
+
+a {
+  cursor: url(/src/images/cursor.png), auto;
+  color: blue !important;
+}
+
+a:hover {
+  cursor: url(/src/images/cursorhover.png), auto;
+  color: blue !important;
 }
 
 .container {
