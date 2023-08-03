@@ -11,10 +11,12 @@
 html,
 body {
   padding: 10px;
+  padding-bottom: 100px;
+  height: 100%
   background-color: var(--bg-color);
   color: black;
-  font-family: Chicago; 
-  overflow: hidden;
+  font-family: Chicago;
+  overflow-x: hidden;
   width: 800px;
   margin: auto;
   cursor: url(/src/images/cursor.png), auto;
