@@ -56,12 +56,12 @@ a:hover {
     background-image: url(/src/images/hellzonebg.png);
     opacity: 1;
     position: fixed;
-    width: 500%;
+    width: 1000%;
     height: 100%;
     top: 0%;
     left: 0%;
     z-index: 1;
-    animation: slide 1000s linear infinite;
+    animation: slide 2000s linear infinite;
 }
 
 @keyframes slide {
