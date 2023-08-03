@@ -35,10 +35,10 @@ a:hover {
 .container {
   display: block;
   width: 800px;
-  position: fixed;
+  position: absolute;
   overflow: auto;
-  min-height: 700px;
-  max-height: 700px;
+  min-height: 1200px;
+  max-height: 1200px;
   border-radius: 5px;
   border-style: none;
   background-color: white;
