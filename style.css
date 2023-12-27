@@ -23,7 +23,7 @@ body {
 
 .container {
   display: block;
-  width: 800px;
+  width: 512px;
   position: absolute;
   overflow: auto;
   min-height: 1200px;
