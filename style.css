@@ -16,7 +16,7 @@ body {
   background-color: var(--bg-color);
   color: black;
   font-family: Chicago;
-  overflow-x: hidden;
+  overflow: hidden;
   width: 800px;
   margin: auto;
   cursor: url(/src/images/cursor.png), auto;
