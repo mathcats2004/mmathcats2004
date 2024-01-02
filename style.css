@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Chicago";
-    src: url(/src/fonts/PlayfairDisplayBol.ttf) format("truetype");
+    src: url(/src/fonts/PlayfairDisplayBold.ttf) format("truetype");
 }
 
 :root {
