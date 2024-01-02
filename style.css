@@ -41,6 +41,21 @@ body {
   background-color: #808080;
 }
 
+.navbar {
+  background-color: #bfbfbf;
+  overflow: auto;
+  padding: 6px;
+}
+
+.navbar a {
+  float: left;
+  color: #000000;
+  text-decoration: none;
+  font-size: 12;
+  width: 25%;
+  text-align: center;
+}
+
 .scrollbg {
     background-image: url(/src/images/hellzonebg.png);
     opacity: 1;
