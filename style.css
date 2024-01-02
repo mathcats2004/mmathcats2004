@@ -38,6 +38,7 @@ body {
 .head {
   width: 100%;
   padding: 0;
+  background-color: #808080;
 }
 
 .scrollbg {
