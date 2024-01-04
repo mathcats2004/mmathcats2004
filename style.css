@@ -70,6 +70,14 @@ body {
   min-height: 386px;
 }
 
+h1 {
+  font-size: 18pt;
+}
+
+p1 {
+  font-size: 13pt;
+}
+
 .scrollbg {
     background-image: url(/src/images/hellzonebg.png);
     opacity: 1;
