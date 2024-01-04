@@ -1,8 +1,16 @@
 @font-face {
-    font-family: "Chicago";
+    font-family: "Playfair Display";
     src: url(/src/fonts/PlayfairDisplayBold.ttf) format("truetype");
 }
-
+@font-face {
+    font-family: "Montserrat";
+    src: url(/src/fonts/Montserrat-Regular.ttf) format("truetype");
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url(/src/fonts/Montserrat-Bold.ttf) format("truetype");
+    font-weight: bold;
+}
 :root {
   --bg-color: #000000;
 }
@@ -15,7 +23,7 @@ body {
   height: 100%;
   background-color: var(--bg-color);
   color: black;
-  font-family: Chicago;
+  font-family: Montserrat;
   overflow: hidden;
   width: 800px;
   /* margin: auto; */
@@ -43,6 +51,7 @@ body {
 
 .navbar {
   background-color: #bfbfbf;
+  font-family: "Playfair Display";
   overflow: auto;
   padding: 6px;
 }
@@ -54,6 +63,11 @@ body {
   font-size: 12;
   width: 25%;
   text-align: center;
+}
+
+.content {
+  padding: 20px;
+  min-height: 386px;
 }
 
 .scrollbg {
