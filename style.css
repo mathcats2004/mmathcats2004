@@ -68,6 +68,7 @@ body {
 .content {
   padding: 20px;
   min-height: 386px;
+  text-align: left;
 }
 
 h1 {
